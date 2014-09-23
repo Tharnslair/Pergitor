@@ -23,6 +23,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="IntroPythonProgrammingMVA.py" />
+    <Compile Include="Poem.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="workingWithNumbers.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
